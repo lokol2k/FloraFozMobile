@@ -9,3 +9,5 @@ Ano/período.
 
 Informações sobre o projeto.
 Sistema de catalogação e colaboração da comunidade em relação a flora local.
+Utilziado na solução do projeto a Plataforam Otusystems, mais informações sobre a mesma https://www.outsystems.com/evaluation-guide/
+Também foi adotado o uso de metodologia agil para ser executado no processo.
